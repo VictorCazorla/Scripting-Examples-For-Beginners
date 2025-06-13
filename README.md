@@ -21,7 +21,7 @@ It’s a perfect starting point for those new to shell scripting and Linux autom
 
 | #  | File Name                             | Description                                |
 |----|----------------------------------------|--------------------------------------------|
-| 01 | [`01_holamundo.sh`](dev/01_holamundo.sh)                      | Your first Bash script: Hello World        |
+| 01 | [`01_holamundo.sh`](./dev/01_holamundo.sh)                      | Your first Bash script: Hello World        |
 | 02 | [`02_infosys.sh`](dev/02_infosys.sh)                        | Displaying system information              |
 | 03 | [`03_variables.sh`](dev/03_variables.sh)                      | Basic usage of variables                   |
 | 04 | [`04_arrays.sh`](dev/04_arrays.sh)                         | Introduction to arrays                     |
